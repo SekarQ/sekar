@@ -1,21 +1,7 @@
-# sekar
-uji cobsa
+# apa aja
 
-nama = str(input("Masukan Nama : "))
-umur = int(input("Masukan Umur : "))
-pekerjaan_orang_tua = str(input("Masukan Pekerjaan Orang Tua : "))
-gaji_orang_tua= int(input("Masukan Gaji Orang Tua : "))
-ipk= float(input("Masukan IPK : "))
+aku adalah anak gembala 
+selalu riang serta genmbira
+lalalalalalala
 
-print("Nama:", nama)
-print("Umur:", umur)
-print("Pekerjaan Orang Tua:", pekerjaan_orang_tua)
-print("Gaji Orang Tua:", gaji_orang_tua)
-print("IPK:", ipk)
-
-list = ['PNS', 'Karyawan Swasta', 'Wiraswasta']
-
-if pekerjaan_orang_tua not in list and gaji_orang_tua <= 1000000 and ipk >= 2.7 and umur < 25:
-    print("Selamat")
-else:
-    print("Maaf,", nama, "tidak  memenuhi syarat.")
+aku rajin bekerja hingga masuk surgaaaaaaaa
